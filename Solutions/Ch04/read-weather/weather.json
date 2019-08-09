@@ -1,0 +1,10 @@
+[
+{"day":"Monday", "high":100, "low":90}
+,{"day":"Tuesday", "high":80, "low":77}
+,{"day":"Wednesday", "high":96, "low":90}
+,{"day":"Thursday", "high":98, "low":96}
+,{"day":"Friday", "high":94, "low":92}
+,{"day":"Saturday", "high":101, "low":99}
+,{"day":"Sunday", "high":89, "low":88}
+
+]

@@ -1,0 +1,17 @@
+{
+  "name": "Ch05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database-practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "knex": "^0.19.1",
+    "pg": "^7.12.0"
+  }
+}

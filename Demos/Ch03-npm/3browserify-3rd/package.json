@@ -1,0 +1,17 @@
+{
+  "name": "browserify-with-arr-union",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify index.js -o dist/bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arr-union": "^3.1.0",
+    "browserify": "^16.2.2"
+  }
+}

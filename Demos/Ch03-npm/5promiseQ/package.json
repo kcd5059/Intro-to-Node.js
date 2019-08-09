@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Used for JavaScript Demo",
+  "author": "Judy Lipinski",
+  "engines": {
+    "node": ">=0.10.28"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.9.6"
+  }
+}
